@@ -1,6 +1,6 @@
 ## Hi there, I'm Mona 👋
 ### Blockchain and FullStack Developer
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monarassouli)](https://www.linkedin.com/in/monarassouli/)
+[![Linkedin: monarassouli](https://img.shields.io/badge/-monarassouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monarassouli)](https://www.linkedin.com/in/monarassouli/)
 
 
 <!--
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <!-- [<img align="left" alt="linkedIn-Mona | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  -->
-<br />
 ## My Stats
 
 [![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats)
@@ -31,10 +30,10 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Ipfs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//ipfs/ipfs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Ipfs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//ipfs/ipfs.png" />
 
 <br />
 
