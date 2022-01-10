@@ -1,5 +1,5 @@
-## Hi there, I'm Mona 🎸
-### Blockchain and FullStack Developer
+## Hi there, &nbsp; I'm Mona &nbsp; 🎸
+### Blockchain and FullStack Developer 💻 
 [![Linkedin: monarassouli](https://img.shields.io/badge/-monarassouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monarassouli)](https://www.linkedin.com/in/monarassouli/)
 
 
@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- [<img align="left" alt="linkedIn-Mona | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- -->
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&layout=compact)](https://github.com/DecoratedWings/github-readme-stats) &nbsp; &nbsp;
 [![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats)
