@@ -1,4 +1,4 @@
-## Hi there, I'm Mona 👋
+## Hi there, I'm Mona 🎸
 ### Blockchain and FullStack Developer
 [![Linkedin: monarassouli](https://img.shields.io/badge/-monarassouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monarassouli)](https://www.linkedin.com/in/monarassouli/)
 
