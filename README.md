@@ -22,12 +22,8 @@ Here are some ideas to get you started:
  -->
 ## My Stats
 
-[![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats)
-<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&layout=compact)](https://github.com/DecoratedWings/github-readme-stats)
-
-<br />
+[![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats)
 
 ### Languages and Tools:
 
