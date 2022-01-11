@@ -23,17 +23,17 @@ Here are some ideas to get you started:
 ## My Stats
 
 <a href="https://github.com/DecoratedWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css" />
 </a> &nbsp; &nbsp;
 <a href="https://github.com/DecoratedWings">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice" />
 </a>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings)](https://github.com/DecoratedWings/github-readme-stats)
+<!-- 
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings)](https://github.com/DecoratedWings/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&layout=compact)](https://github.com/DecoratedWings/github-readme-stats) &nbsp; &nbsp;
-[![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats) -->
-
+[![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats) 
+ -->
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
