@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&layout=compact)](https://github.com/DecoratedWings/github-readme-stats) &nbsp; &nbsp;
 [![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats) -->
 
-### Languages and Tools:
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
@@ -66,7 +65,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Ipfs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//ipfs/ipfs.png" /> -->
 <br />
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Blockchain Social Experiment: Enforced Logic](https://hackernoon.com/the-blockchain-social-experiment-enforced-logic)
 - [When The Dust Settles: Insights For The Future of Crypto & Blockchain](https://hackernoon.com/when-the-dust-settles-insights-for-the-future-of-crypto-and-blockchain-kc1v48o9)
