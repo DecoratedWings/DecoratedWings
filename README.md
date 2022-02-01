@@ -27,12 +27,9 @@ Here are some ideas to get you started:
   <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DecoratedWings' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DecoratedWings&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
   </p>
- <p align="center">
-  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://github.com/DecoratedWings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css&hide_border=true&bg_color=060A0CD0" />
 </a> 
-&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 
 <a href="https://github.com/DecoratedWings">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=nightowl&hide_border=true&bg_color=060A0CD0" />
 </a>
