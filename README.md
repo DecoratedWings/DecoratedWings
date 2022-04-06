@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </a>
   </p>
 <a href="https://github.com/DecoratedWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css&hide_border=true&bg_color=060A0CD0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css,html&hide_border=true&bg_color=060A0CD0" />
 </a> 
 <a href="https://github.com/DecoratedWings">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=nightowl&hide_border=true&bg_color=060A0CD0" />
