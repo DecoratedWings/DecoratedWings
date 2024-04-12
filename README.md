@@ -31,8 +31,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css,html&hide_border=true&bg_color=060A0CD0" />
 </a> 
 <a href="https://github.com/DecoratedWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=nightowl&hide_border=true&bg_color=060A0CD0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=nightowl&hide_border=true&bg_color=060A0CD0&rank_icon=github" />
 </a>
+
+## Latest Repos 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=dapp-clones)]([https://github.com/DecoratedWings/dapp-clones](https://github.com/DecoratedWings/dapp-clones))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=aries-framework-javascript)]([https://github.com/DecoratedWings/aries-framework-javascript](https://github.com/DecoratedWings/aries-framework-javascript))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=Solidity-Workshop-01)]([https://github.com/DecoratedWings/Solidity-Workshop-01](https://github.com/DecoratedWings/Solidity-Workshop-01))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=Inaccessible-Stake-Dapp)]([https://github.com/DecoratedWings/Inaccessible-Stake-Dapp](https://github.com/DecoratedWings/Inaccessible-Stake-Dapp))
 
   
 
@@ -73,8 +79,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Ipfs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//ipfs/ipfs.png" /> -->
 <br />
 
+
+
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bridging The Gap: Web3 Browser Accessibility and the Future of Internet Use](https://hapticsdao.substack.com/p/bridging-the-gap-web3-browser-accessibility)
 - [The Blockchain Social Experiment: Enforced Logic](https://hackernoon.com/the-blockchain-social-experiment-enforced-logic)
 - [When The Dust Settles: Insights For The Future of Crypto & Blockchain](https://hackernoon.com/when-the-dust-settles-insights-for-the-future-of-crypto-and-blockchain-kc1v48o9)
 - [Web 3.0 Hosting: Onboarding Websites to the New Internet](https://hackernoon.com/web-30-hosting-onboarding-websites-to-the-new-internet-m5m34mj)
