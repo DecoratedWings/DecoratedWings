@@ -38,9 +38,9 @@ Java                 ███░░░░░░░░░░░░░░░░�
 ## Pac-Man Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/dist/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/dist/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/dist/pacman-contribution-graph.svg" />
 </picture>
 
 ---
