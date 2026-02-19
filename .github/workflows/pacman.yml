@@ -13,7 +13,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_username: "DecoratedWings"
+          github_user_name: "DecoratedWings"
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update Pac-Man contribution graph"
