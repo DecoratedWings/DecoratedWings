@@ -167,8 +167,4 @@ Java                 ███░░░░░░░░░░░░░░░░�
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DecoratedWings&icon=0&color=0" alt="Profile Views" />
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,100:1d3b53&height=120&section=footer" />
