@@ -1,96 +1,174 @@
-# Hi, &nbsp;I'm Mona &nbsp; 🎸
-### Blockchain and FullStack Developer 💻 
-<a href="https://linkedin.com/in/monarassouli" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<!-- [![Linkedin: monarassouli](https://img.shields.io/badge/-monarassouli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monarassouli)](https://www.linkedin.com/in/monarassouli/) -->
+## Hi, I'm Mona 🎸
 
+**Blockchain and FullStack Developer 🖥**
 
-<!--
-**DecoratedWings/DecoratedWings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/DecoratedWings">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ## My Stats
- <p align="center">
 
+<p align="center">
   <a href="https://github.com/DecoratedWings">
-  <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DecoratedWings' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DecoratedWings&theme=nightowl&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
-  </p>
-<a href="https://github.com/DecoratedWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&theme=nightowl&hide=scss,css,html&hide_border=true&bg_color=060A0CD0" />
-</a> 
-<a href="https://github.com/DecoratedWings">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=nightowl&hide_border=true&bg_color=060A0CD0&rank_icon=github" />
-</a>
+    <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=DecoratedWings&theme=nightowl&hide_border=true&background=060A0CD0" alt="DecoratedWings' streak" />
+  </a>
+</p>
 
-## Latest Repos 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=dapp-clones)]([https://github.com/DecoratedWings/dapp-clones](https://github.com/DecoratedWings/dapp-clones))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=aries-framework-javascript)]([https://github.com/DecoratedWings/aries-framework-javascript](https://github.com/DecoratedWings/aries-framework-javascript))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=Solidity-Workshop-01)]([https://github.com/DecoratedWings/Solidity-Workshop-01](https://github.com/DecoratedWings/Solidity-Workshop-01))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DecoratedWings&repo=Inaccessible-Stake-Dapp)]([https://github.com/DecoratedWings/Inaccessible-Stake-Dapp](https://github.com/DecoratedWings/Inaccessible-Stake-Dapp))
+<table>
+  <tr>
+    <td valign="top" width="150">
+      <img src="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/images/gopher.png" width="150" alt="Go Gopher" />
+    </td>
+    <td valign="top">
+      <strong>I Mostly Code in</strong>
+      <br><br>
+      <pre>
+TypeScript           ██████████████████████░░░   90.00 %
+Golang               █████████████████████░░░░   80.00 %
+Solidity             █████████████░░░░░░░░░░░░   50.00 %
+Python               ████████░░░░░░░░░░░░░░░░░   30.00 %
+Java                 ███░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+      </pre>
+    </td>
+  </tr>
+</table>
 
-  
+---
 
-<!-- 
-<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings)](https://github.com/DecoratedWings/github-readme-stats)
+## Pac-Man Contribution Graph
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoratedWings&layout=compact)](https://github.com/DecoratedWings/github-readme-stats) &nbsp; &nbsp;
-[![Mona's GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoratedWings&show_icons=true&theme=apprentice)](https://github.com/DecoratedWings/github-readme-stats) 
- -->
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="75" />  
-</div>   
-<!-- <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Ipfs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics//ipfs/ipfs.png" /> -->
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DecoratedWings/DecoratedWings/main/pacman-contribution-graph/pacman-contribution-graph.svg" />
+</picture>
 
+---
 
+## Tech Stack
 
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Bridging The Gap: Web3 Browser Accessibility and the Future of Internet Use](https://hapticsdao.substack.com/p/bridging-the-gap-web3-browser-accessibility)
-- [The Blockchain Social Experiment: Enforced Logic](https://hackernoon.com/the-blockchain-social-experiment-enforced-logic)
-- [When The Dust Settles: Insights For The Future of Crypto & Blockchain](https://hackernoon.com/when-the-dust-settles-insights-for-the-future-of-crypto-and-blockchain-kc1v48o9)
-- [Web 3.0 Hosting: Onboarding Websites to the New Internet](https://hackernoon.com/web-30-hosting-onboarding-websites-to-the-new-internet-m5m34mj)
-<!-- BLOG-POST-LIST:END -->
+**Languages**
 
-➡️ [more blog posts...](https://hackernoon.com/u/MR_Protocol)
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
+**Frameworks & Libraries**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" />
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+</p>
 
-[linkedin]: https://www.linkedin.com/in/monarassouli
+**Cloud & Infrastructure**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+</p>
+
+**Databases & Messaging**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka" />
+</p>
+
+**Testing & Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" />
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM" />
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+  <img src="https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white" alt="RollupJS" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</p>
+
+---
+
+## Latest Repos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/DecoratedWings/dapp-clones">dapp-clones</a></h3>
+      <p>Solidity dApp clones for learning Web3 development</p>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-c792ea?style=flat-square&logo=ethereum&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/DecoratedWings/aries-framework-javascript">aries-framework-js</a></h3>
+      <p>Self-sovereign identity framework for decentralized credentials</p>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/SSI-7fdbca?style=flat-square&logo=hyperledger&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/DecoratedWings/Solidity-Workshop-01">Solidity-Workshop-01</a></h3>
+      <p>Intro workshop for writing and deploying smart contracts</p>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/DecoratedWings/Inaccessible-Stake-Dapp">Inaccessible-Stake-Dapp</a></h3>
+      <p>DeFi staking application built on Ethereum</p>
+      <img src="https://img.shields.io/badge/DeFi-FF9900?style=flat-square&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Staking-326ce5?style=flat-square&logo=ethereum&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Dev Quote
+
+> *"There are only two hard things in Computer Science: cache invalidation and naming things."* — Phil Karlton
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=DecoratedWings&icon=0&color=0" alt="Profile Views" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,100:1d3b53&height=120&section=footer" />
