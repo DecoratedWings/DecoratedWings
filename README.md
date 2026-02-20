@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<a href="https://github.com/monar24">
+  <img src="https://img.shields.io/badge/Alternate%20GitHub%20Account-181717?style=for-the-badge&logo=github&logoColor=white" alt="Alternate GitHub Account" />
+</a>
+  
 ## My Stats
 
 <p align="center">
