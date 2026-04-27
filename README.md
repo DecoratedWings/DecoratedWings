@@ -14,7 +14,8 @@
 
 <p align="center">
   <a href="https://github.com/DecoratedWings">
-    <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=DecoratedWings&theme=nightowl&hide_border=true&background=060A0CD0" alt="DecoratedWings' streak" />
+    <img width="60%" src="https://streak-stats.demolab.com?user=DecoratedWings&theme=nightowl&hide_border=true&background=060A0CD0" alt="DecoratedWings' streak"" />
+    <!-- <img width="60%" src="https://nirzak-streak-stats.vercel.app/?user=DecoratedWings&theme=nightowl&hide_border=true&background=060A0CD0" alt="DecoratedWings' streak" /> -->
   </a>
 </p>
 
